@@ -32,11 +32,47 @@
 
 ---
 
-## 🚧 Projects
+## 🚧 Featured Projects
 
 ### 🛍 Web-Based Boutique Sales System
+**Tech:** Laravel, PHP, MySQL, Bootstrap, CSS
+**Description:**  
+An e-commerce-style web application for managing boutique product sales.
+
+**Key Features:**
+- Product management (CRUD)
+- Shopping cart & order processing
+- Sales transaction history
+- Customer & admin dashboards
+- Sales reports
+
+---
+
 ### 🏕 Camping Equipment Rental System
+**Tech:** Laravel 12, CSS, Bootstrap, MySQL  
+**Description:**  
+A web-based system for managing camping equipment rentals with admin and user dashboards.
+
+**Key Features:**
+- Equipment management (CRUD & availability status)
+- Booking system & transaction history
+- Payment validation
+- PDF invoice generation
+- Role-based access control
+
+---
+
 ### 🕌 Madrasah Payment Management System
+**Tech:** Laravel, PHP, MySQL, Bootstrap, Jetstream  
+**Description:**  
+A web-based payment system for managing madrasah tuition and administrative fees.
+
+**Key Features:**
+- Student & class management
+- Monthly and non-monthly payment tracking
+- Payment status monitoring
+- Admin dashboard & financial reports
+- Secure role-based access
 
 ---
 
