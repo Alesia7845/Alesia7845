@@ -32,45 +32,11 @@
 
 ---
 
-## 🚧 Featured Projects
+## 🚧 Projects
 
-### 🛍 Web-Based Boutique Sales System
-**Tech:** Laravel, PHP, MySQL, Bootstrap, CSS 
-**Description:**  
-An e-commerce-style web application for managing boutique product sales.
-
-**Key Features:**
-- Product management (CRUD)
-- Shopping cart & order processing
-- Sales transaction history
-- Customer & admin dashboards
-- Sales reports
-
-### 🏕 Camping Equipment Rental System
-**Tech:** Laravel 12, CSS, Bootstrap, MySQL  
-**Description:**  
-A web-based system for managing camping equipment rentals with admin and user dashboards.
-
-**Key Features:**
-- Equipment management (CRUD & availability status)
-- Booking system & transaction history
-- Payment validation
-- PDF invoice generation
-- Role-based access control
-
----
-
-### 🕌 Madrasah Payment Management System
-**Tech:** Laravel, PHP, MySQL, Bootstrap, Jetstream 
-**Description:**  
-A web-based payment system for managing madrasah tuition and administrative fees.
-
-**Key Features:**
-- Student & class management
-- Monthly and non-monthly payment tracking
-- Payment status monitoring
-- Admin dashboard & financial reports
-- Secure role-based access
+![🛍 Web-Based Boutique Sales System](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![🏕 Camping Equipment Rental System](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![🕌 Madrasah Payment Management System](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
